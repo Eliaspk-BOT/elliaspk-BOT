@@ -11,7 +11,7 @@ git add .
 git commit -m "Versão inicial do Eliaspk-BOT"
 
 # Conecta ao repositório remoto (substitua pela sua URL)
-git remote add origin https://github.com/<seu‑user>/Eliaspk-BOT.git
+git remote add origin https://github.com/<elliaspk-BOT>/Eliaspk-BOT.git
 
 # Envia (push) a branch main
 git branch -M main
